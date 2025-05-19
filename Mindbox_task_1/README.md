@@ -78,5 +78,3 @@ geometry_lib/
 ```bash
 pytest
 ```
-
-Тесты находятся в директории `tests/`.
