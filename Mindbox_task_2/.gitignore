@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# PySpark logs or temp data
+.metastore_db/
+spark-warehouse/
+derby.log
+*.log
+
+# Test-related files
+htmlcov/
+coverage.xml
+.cache/
+.tox/
+.pytest_cache/
+
+# Mac / Windows system files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Pipenv / Poetry
+Pipfile.lock
+poetry.lock
