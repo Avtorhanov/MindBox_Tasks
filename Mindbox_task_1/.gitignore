@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+geometrylib.egg-info
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/editor configs (опционально)
+.vscode/
+*.swp
